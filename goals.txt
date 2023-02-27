@@ -1,0 +1,16 @@
+Rewrite CRUD for Boardgames
+    Read all Boardgames
+        Include average rating
+        Include each game's genres
+        Order alphabetically
+    Read single specified Boardgame
+        Include associated reviews
+        Order reviews by highest rating
+    Create a Boardgame
+        Add Genres for new game
+    Update a Boardgame
+    Delete a Boardgame
+Rewrite Search for Boardgames
+    Search filters:
+        gameName
+        maxPlayer range
